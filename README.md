@@ -1,4 +1,10 @@
-### Hi there 👋
+## Stephan (he/him)
+
+### On a quest to find the best Gyro in Boston 🌯
+
+### Systems Language Lover && Web App Fanatic 💻
+
+### Send me an email at stephans@bu.edu 📧
 
 <!--
 **stephanitus/stephanitus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
