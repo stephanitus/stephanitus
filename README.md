@@ -1,6 +1,9 @@
 ## Stephan (he/him)
 
-### On a quest to find the best Gyro in Boston 🌯
+### Current Goals:
+1. Build a self-replicating robot
+2. Gift it with artificial intelligence
+3. Help it achieve singularity
 
 ### Systems Language Lover && Web App Fanatic 💻
 
