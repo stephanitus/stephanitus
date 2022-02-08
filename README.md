@@ -9,6 +9,8 @@
 
 ### Send me an email at stephans@bu.edu 📧
 
+### https://blog.stephanschmidt.dev
+
 <!--
 **stephanitus/stephanitus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
